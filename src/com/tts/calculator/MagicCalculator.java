@@ -1,6 +1,7 @@
 package com.tts.calculator;
 
 public class MagicCalculator extends Calculator {
+
     public static double sqrt(double num) {
         return Math.sqrt(num);
     }
